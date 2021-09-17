@@ -24,6 +24,6 @@ Sube el código completo al repositorio que se te ha asignado en el apartado pr�
 
 Una vez lo tengas completamente subido copia el enlace al repositorio.
 
-Acceda al apartado **Práctica final** en la plataforma y pulsa en el botón **"Agregar Entrega".**
+Accede al apartado **Práctica final** en la plataforma y pulsa en el botón **"Agregar Entrega"**.
 
 Copia el enlace a tu repositorio y pulsa **enviar**. Confirma el envío.
