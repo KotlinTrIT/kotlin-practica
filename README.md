@@ -1,4 +1,4 @@
-**Práctica final de curso Kotlin **
+**Práctica final de curso Kotlin**
 
 **Enunciado**
 
