@@ -21,3 +21,9 @@ Tanto la interfaz como las características de la App (información de detalle, 
 **Entrega de la práctica**
 
 Sube el código completo al repositorio que se te ha asignado en el apartado práctica final dentro de la plataforma.
+
+Una vez lo tengas completamente subido copia el enlace al repositorio.
+
+Acceda al apartado **Práctica final** en la plataforma y pulsa en el botón **"Agregar Entrega".**
+
+Copia el enlace a tu repositorio y pulsa **enviar**. Confirma el envío.
